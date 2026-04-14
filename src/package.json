@@ -580,7 +580,7 @@
 		"@types/vscode": "^1.84.0",
 		"@vscode/test-electron": "^2.5.2",
 		"@vscode/vsce": "3.3.2",
-		"ai": "^6.0.75",
+		"ai": "^6.0.159",
 		"esbuild-wasm": "^0.25.0",
 		"execa": "^9.5.2",
 		"glob": "^11.1.0",

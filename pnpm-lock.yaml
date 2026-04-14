@@ -711,7 +711,7 @@ importers:
     dependencies:
       ai-sdk-provider-poe:
         specifier: 2.0.18
-        version: 2.0.18(ai@6.0.77(zod@3.25.76))(zod@3.25.76)
+        version: 2.0.18(ai@6.0.159(zod@3.25.76))(zod@3.25.76)
       zod:
         specifier: 3.25.76
         version: 3.25.76
@@ -829,7 +829,7 @@ importers:
         version: 0.0.36
       ai-sdk-provider-poe:
         specifier: 2.0.18
-        version: 2.0.18(ai@6.0.77(zod@3.25.76))(zod@3.25.76)
+        version: 2.0.18(ai@6.0.159(zod@3.25.76))(zod@3.25.76)
       async-mutex:
         specifier: ^0.5.0
         version: 0.5.0
@@ -1037,7 +1037,7 @@ importers:
         version: 2.0.28(zod@3.25.76)
       '@openrouter/ai-sdk-provider':
         specifier: ^2.1.1
-        version: 2.1.1(ai@6.0.77(zod@3.25.76))(zod@3.25.76)
+        version: 2.1.1(ai@6.0.159(zod@3.25.76))(zod@3.25.76)
       '@roo-code/build':
         specifier: workspace:^
         version: link:../packages/build
@@ -1111,8 +1111,8 @@ importers:
         specifier: 3.3.2
         version: 3.3.2
       ai:
-        specifier: ^6.0.75
-        version: 6.0.77(zod@3.25.76)
+        specifier: ^6.0.159
+        version: 6.0.159(zod@3.25.76)
       esbuild-wasm:
         specifier: ^0.25.0
         version: 0.25.12
@@ -1462,8 +1462,8 @@ packages:
     peerDependencies:
       zod: 3.25.76
 
-  '@ai-sdk/gateway@3.0.39':
-    resolution: {integrity: sha512-SeCZBAdDNbWpVUXiYgOAqis22p5MEYfrjRw0hiBa5hM+7sDGYQpMinUjkM8kbPXMkY+AhKLrHleBl+SuqpzlgA==}
+  '@ai-sdk/gateway@3.0.96':
+    resolution: {integrity: sha512-BDiVEMUVHGpngReeigzLyJobG0TvzYbNGzdHI8JYBZHrjOX4aL6qwIls7z3p7V4TuXVWUCbG8TSWEe7ksX4Vhw==}
     engines: {node: '>=18'}
     peerDependencies:
       zod: 3.25.76
@@ -1524,6 +1524,12 @@ packages:
 
   '@ai-sdk/provider-utils@4.0.21':
     resolution: {integrity: sha512-MtFUYI1/8mgDvRmaBDjbLJPFFrMG777AvSgyIFQtZHIMzm88R/12vYBBpnk7pfiWLFE1DSZzY4WDYzGbKAcmiw==}
+    engines: {node: '>=18'}
+    peerDependencies:
+      zod: 3.25.76
+
+  '@ai-sdk/provider-utils@4.0.23':
+    resolution: {integrity: sha512-z8GlDaCmRSDlqkMF2f4/RFgWxdarvIbyuk+m6WXT1LYgsnGiXRJGTD2Z1+SDl3LqtFuRtGX1aghYvQLoHL/9pg==}
     engines: {node: '>=18'}
     peerDependencies:
       zod: 3.25.76
@@ -4896,6 +4902,7 @@ packages:
   '@xmldom/xmldom@0.8.10':
     resolution: {integrity: sha512-2WALfTl4xo2SkGCYRt6rDTFfk9R1czmBvUQy12gK2KuRKIpWEhcbbzy8EZXtz/jkRqHX8bFEc6FC1HjX4TUWYw==}
     engines: {node: '>=10.0.0'}
+    deprecated: this version has critical issues, please update to the latest version
 
   '@xobotyi/scrollbar-width@1.9.5':
     resolution: {integrity: sha512-N8tkAACJx2ww8vFMneJmaAgmjAG1tnVBZJRLRcx061tmsLRZHSEZSLuGWnwPtunsSLvSqXQ2wfp7Mgqg1I+2dQ==}
@@ -4936,8 +4943,8 @@ packages:
     peerDependencies:
       ai: '>=6.0.0'
 
-  ai@6.0.77:
-    resolution: {integrity: sha512-tyyhrRpCRFVlivdNIFLK8cexSBB2jwTqO0z1qJQagk+UxZ+MW8h5V8xsvvb+xdKDY482Y8KAm0mr7TDnPKvvlw==}
+  ai@6.0.159:
+    resolution: {integrity: sha512-S18ozG7Dkm3Ud1tzOtAK5acczD4vygfml80RkpM9VWMFpvAFwAKSHaGYkATvPQHIE+VpD1tJY9zcTXLZ/zR5cw==}
     engines: {node: '>=18'}
     peerDependencies:
       zod: 3.25.76
@@ -5183,7 +5190,7 @@ packages:
   basic-ftp@5.0.5:
     resolution: {integrity: sha512-4Bcg1P8xhUuqcii/S0Z9wiHIrQVPMermM1any+MX5GeGD7faD3/msQUDGLol9wOcz4/jbg/WJnGqoJF6LiBdtg==}
     engines: {node: '>=10.0.0'}
-    deprecated: Security vulnerability fixed in 5.2.0, please upgrade
+    deprecated: Security vulnerability fixed in 5.2.1, please upgrade
 
   better-path-resolve@1.0.0:
     resolution: {integrity: sha512-pbnl5XzGBdrFU/wT4jqmJVPn2B6UHPBOhzMQkY/SPUPB6QtUXtmBHBIwCbXJol93mOpGMnQyP/+BB19q04xj7g==}
@@ -11172,10 +11179,10 @@ snapshots:
       '@ai-sdk/provider-utils': 4.0.14(zod@3.25.76)
       zod: 3.25.76
 
-  '@ai-sdk/gateway@3.0.39(zod@3.25.76)':
+  '@ai-sdk/gateway@3.0.96(zod@3.25.76)':
     dependencies:
       '@ai-sdk/provider': 3.0.8
-      '@ai-sdk/provider-utils': 4.0.14(zod@3.25.76)
+      '@ai-sdk/provider-utils': 4.0.23(zod@3.25.76)
       '@vercel/oidc': 3.1.0
       zod: 3.25.76
 
@@ -11242,6 +11249,13 @@ snapshots:
       zod: 3.25.76
 
   '@ai-sdk/provider-utils@4.0.21(zod@3.25.76)':
+    dependencies:
+      '@ai-sdk/provider': 3.0.8
+      '@standard-schema/spec': 1.1.0
+      eventsource-parser: 3.0.6
+      zod: 3.25.76
+
+  '@ai-sdk/provider-utils@4.0.23(zod@3.25.76)':
     dependencies:
       '@ai-sdk/provider': 3.0.8
       '@standard-schema/spec': 1.1.0
@@ -12991,9 +13005,9 @@ snapshots:
 
   '@open-draft/until@2.1.0': {}
 
-  '@openrouter/ai-sdk-provider@2.1.1(ai@6.0.77(zod@3.25.76))(zod@3.25.76)':
+  '@openrouter/ai-sdk-provider@2.1.1(ai@6.0.159(zod@3.25.76))(zod@3.25.76)':
     dependencies:
-      ai: 6.0.77(zod@3.25.76)
+      ai: 6.0.159(zod@3.25.76)
       zod: 3.25.76
 
   '@opentelemetry/api-logs@0.208.0':
@@ -15247,22 +15261,22 @@ snapshots:
     dependencies:
       humanize-ms: 1.2.1
 
-  ai-sdk-provider-poe@2.0.18(ai@6.0.77(zod@3.25.76))(zod@3.25.76):
+  ai-sdk-provider-poe@2.0.18(ai@6.0.159(zod@3.25.76))(zod@3.25.76):
     dependencies:
       '@ai-sdk/anthropic': 3.0.42(zod@3.25.76)
       '@ai-sdk/openai': 3.0.27(zod@3.25.76)
       '@ai-sdk/openai-compatible': 2.0.37(zod@3.25.76)
       '@ai-sdk/provider': 3.0.8
       '@ai-sdk/provider-utils': 4.0.14(zod@3.25.76)
-      ai: 6.0.77(zod@3.25.76)
+      ai: 6.0.159(zod@3.25.76)
     transitivePeerDependencies:
       - zod
 
-  ai@6.0.77(zod@3.25.76):
+  ai@6.0.159(zod@3.25.76):
     dependencies:
-      '@ai-sdk/gateway': 3.0.39(zod@3.25.76)
+      '@ai-sdk/gateway': 3.0.96(zod@3.25.76)
       '@ai-sdk/provider': 3.0.8
-      '@ai-sdk/provider-utils': 4.0.14(zod@3.25.76)
+      '@ai-sdk/provider-utils': 4.0.23(zod@3.25.76)
       '@opentelemetry/api': 1.9.0
       zod: 3.25.76
 
