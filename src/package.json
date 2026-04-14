@@ -520,7 +520,7 @@
 		"p-wait-for": "^5.0.2",
 		"partial-json": "^0.1.7",
 		"pdf-parse": "^1.1.1",
-		"pkce-challenge": "^5.0.0",
+		"pkce-challenge": "^6.0.0",
 		"pretty-bytes": "^7.0.0",
 		"proper-lockfile": "^4.1.2",
 		"ps-tree": "^1.2.0",
