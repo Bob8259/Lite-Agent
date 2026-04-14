@@ -74,7 +74,7 @@
 		"shiki": "^3.2.1",
 		"source-map": "^0.7.4",
 		"stacktrace-js": "^2.0.2",
-		"styled-components": "^6.1.13",
+		"styled-components": "^6.4.0",
 		"tailwind-merge": "^3.0.0",
 		"tailwindcss": "^4.0.0",
 		"tailwindcss-animate": "^1.0.7",
