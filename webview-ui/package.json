@@ -72,7 +72,7 @@
 		"remove-markdown": "^0.6.0",
 		"shell-quote": "^1.8.2",
 		"shiki": "^3.2.1",
-		"source-map": "^0.7.4",
+		"source-map": "^0.7.6",
 		"stacktrace-js": "^2.0.2",
 		"styled-components": "^6.1.13",
 		"tailwind-merge": "^3.0.0",
