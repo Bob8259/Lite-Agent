@@ -39,7 +39,7 @@
 		"p-wait-for": "^5.0.2",
 		"postgres": "^3.4.7",
 		"ps-tree": "^1.2.0",
-		"redis": "^5.5.5",
+		"redis": "^5.11.0",
 		"zod": "^3.25.61"
 	},
 	"devDependencies": {
