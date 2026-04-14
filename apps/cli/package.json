@@ -25,7 +25,7 @@
 		"@roo-code/core": "workspace:^",
 		"@roo-code/types": "workspace:^",
 		"@roo-code/vscode-shim": "workspace:^",
-		"@trpc/client": "^11.8.1",
+		"@trpc/client": "^11.16.0",
 		"@vscode/ripgrep": "^1.15.9",
 		"commander": "^12.1.0",
 		"cross-spawn": "^7.0.6",
