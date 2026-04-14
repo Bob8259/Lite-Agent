@@ -478,7 +478,7 @@
 		"chokidar": "^4.0.1",
 		"clone-deep": "^4.0.1",
 		"default-shell": "^2.2.0",
-		"delay": "^6.0.0",
+		"delay": "^7.0.0",
 		"diff": "^5.2.0",
 		"diff-match-patch": "^1.0.5",
 		"exceljs": "^4.4.0",
