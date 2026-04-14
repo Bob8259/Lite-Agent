@@ -33,7 +33,7 @@
 		"fuzzysort": "^3.1.0",
 		"ink": "^6.6.0",
 		"p-wait-for": "^5.0.2",
-		"react": "^19.1.0",
+		"react": "^19.2.5",
 		"superjson": "^2.2.6",
 		"zustand": "^5.0.0"
 	},
@@ -41,7 +41,7 @@
 		"@roo-code/config-eslint": "workspace:^",
 		"@roo-code/config-typescript": "workspace:^",
 		"@types/node": "^24.1.0",
-		"@types/react": "^19.1.6",
+		"@types/react": "^19.2.14",
 		"ink-testing-library": "^4.0.0",
 		"rimraf": "^6.0.1",
 		"tsup": "^8.4.0",
