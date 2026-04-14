@@ -513,7 +513,7 @@
 		"ps-tree": "^1.2.0",
 		"puppeteer-chromium-resolver": "^24.0.0",
 		"puppeteer-core": "^23.4.0",
-		"reconnecting-eventsource": "^1.6.4",
+		"reconnecting-eventsource": "^1.6.5",
 		"safe-stable-stringify": "^2.5.0",
 		"sambanova-ai-provider": "^1.2.2",
 		"sanitize-filename": "^1.6.3",
