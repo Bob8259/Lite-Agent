@@ -541,7 +541,7 @@
 		"zod": "3.25.76"
 	},
 	"devDependencies": {
-		"@ai-sdk/openai-compatible": "^2.0.28",
+		"@ai-sdk/openai-compatible": "^2.0.41",
 		"@openrouter/ai-sdk-provider": "^2.1.1",
 		"@roo-code/build": "workspace:^",
 		"@roo-code/config-eslint": "workspace:^",
