@@ -12,7 +12,7 @@
 		"clean": "rimraf tsconfig.tsbuildinfo .next .turbo"
 	},
 	"dependencies": {
-		"@hookform/resolvers": "^5.1.1",
+		"@hookform/resolvers": "^5.2.2",
 		"@radix-ui/react-alert-dialog": "^1.1.7",
 		"@radix-ui/react-checkbox": "^1.1.5",
 		"@radix-ui/react-dialog": "^1.1.6",

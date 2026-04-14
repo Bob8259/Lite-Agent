@@ -199,8 +199,8 @@ importers:
   apps/web-evals:
     dependencies:
       '@hookform/resolvers':
-        specifier: ^5.1.1
-        version: 5.1.1(react-hook-form@7.57.0(react@18.3.1))
+        specifier: ^5.2.2
+        version: 5.2.2(react-hook-form@7.57.0(react@18.3.1))
       '@radix-ui/react-alert-dialog':
         specifier: ^1.1.7
         version: 1.1.13(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -2329,8 +2329,8 @@ packages:
       '@modelcontextprotocol/sdk':
         optional: true
 
-  '@hookform/resolvers@5.1.1':
-    resolution: {integrity: sha512-J/NVING3LMAEvexJkyTLjruSm7aOFx7QX21pzkiJfMoNG0wl5aFEjLTl7ay7IQb9EWY6AkrBy7tHL2Alijpdcg==}
+  '@hookform/resolvers@5.2.2':
+    resolution: {integrity: sha512-A/IxlMLShx3KjV/HeTcTfaMxdwy690+L/ZADoeaTltLx+CVuzkeVIPuybK3jrRfw7YZnmdKsVVHAlEPIAEUNlA==}
     peerDependencies:
       react-hook-form: ^7.55.0
 
@@ -4896,6 +4896,7 @@ packages:
   '@xmldom/xmldom@0.8.10':
     resolution: {integrity: sha512-2WALfTl4xo2SkGCYRt6rDTFfk9R1czmBvUQy12gK2KuRKIpWEhcbbzy8EZXtz/jkRqHX8bFEc6FC1HjX4TUWYw==}
     engines: {node: '>=10.0.0'}
+    deprecated: this version has critical issues, please update to the latest version
 
   '@xobotyi/scrollbar-width@1.9.5':
     resolution: {integrity: sha512-N8tkAACJx2ww8vFMneJmaAgmjAG1tnVBZJRLRcx061tmsLRZHSEZSLuGWnwPtunsSLvSqXQ2wfp7Mgqg1I+2dQ==}
@@ -5183,7 +5184,7 @@ packages:
   basic-ftp@5.0.5:
     resolution: {integrity: sha512-4Bcg1P8xhUuqcii/S0Z9wiHIrQVPMermM1any+MX5GeGD7faD3/msQUDGLol9wOcz4/jbg/WJnGqoJF6LiBdtg==}
     engines: {node: '>=10.0.0'}
-    deprecated: Security vulnerability fixed in 5.2.0, please upgrade
+    deprecated: Security vulnerability fixed in 5.2.1, please upgrade
 
   better-path-resolve@1.0.0:
     resolution: {integrity: sha512-pbnl5XzGBdrFU/wT4jqmJVPn2B6UHPBOhzMQkY/SPUPB6QtUXtmBHBIwCbXJol93mOpGMnQyP/+BB19q04xj7g==}
@@ -12480,7 +12481,7 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@hookform/resolvers@5.1.1(react-hook-form@7.57.0(react@18.3.1))':
+  '@hookform/resolvers@5.2.2(react-hook-form@7.57.0(react@18.3.1))':
     dependencies:
       '@standard-schema/utils': 0.3.0
       react-hook-form: 7.57.0(react@18.3.1)
