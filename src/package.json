@@ -173,7 +173,8 @@
 			{
 				"command": "lite-agent.switchToArchitect",
 				"title": "%command.switchToArchitect.title%",
-				"category": "%configuration.title%"
+				"category": "%configuration.title%",
+				"description": "%command.switchToArchitect.description%"
 			}
 		],
 		"menus": {
@@ -300,10 +301,10 @@
 			},
 			{
 				"command": "lite-agent.switchToArchitect",
-				"key": "ctrl+shift+a",
-				"mac": "cmd+shift+a",
-				"win": "ctrl+shift+a",
-				"linux": "ctrl+shift+a"
+				"key": "alt+q",
+				"mac": "alt+q",
+				"win": "alt+q",
+				"linux": "alt+q"
 			}
 		],
 		"submenus": [
