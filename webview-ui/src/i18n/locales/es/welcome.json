@@ -14,33 +14,14 @@
 	},
 	"landing": {
 		"greeting": "¡Bienvenido a Lite-Agent!",
-		"introduction": "Con una variedad de Modos integrados y extensibles, Lite-Agent te permite planificar, arquitectar, codificar, depurar y aumentar tu productividad como nunca antes.",
-		"accountMention": "Para comenzar, crea tu cuenta de Lite-Agent Cloud. Obtén modelos potentes, control web, análisis, soporte y más.",
-		"getStarted": "Crear cuenta de Roo",
-		"noAccount": "o usar sin cuenta"
+		"introduction": "Con una variedad de Modos integrados y extensibles, Lite-Agent te permite planificar, arquitectar, codificar, depurar y aumentar tu productividad como nunca antes."
 	},
 	"providerSignup": {
 		"heading": "Elige tu proveedor",
 		"chooseProvider": "Roo necesita un proveedor de LLM para funcionar. Elige uno para comenzar, puedes añadir más después.",
-		"rooCloudProvider": "Proveedor de Lite-Agent Cloud",
-		"rooCloudDescription": "La forma más sencilla de comenzar es con el Proveedor Lite-Agent Cloud: una mezcla seleccionada de modelos gratuitos y de pago a bajo costo.",
-		"learnMore": "Más información",
 		"useAnotherProvider": "Proveedor de terceros",
 		"useAnotherProviderDescription": "Introduce una clave API y comienza.",
-		"noApiKeys": "¿No quieres lidiar con claves API y cuentas separadas?",
-		"backToRoo": "Ve con el Proveedor de Lite-Agent Cloud.",
-		"goBack": "Atrás",
 		"finish": "Finalizar"
-	},
-	"waitingForCloud": {
-		"heading": "Iniciando sesión en Lite-Agent Cloud...",
-		"description": "Te llevaremos a tu navegador para que te registres en Lite-Agent Cloud. Luego te traeremos aquí para terminar.",
-		"noPrompt": "Si no se te pide que abras una URL, <clickHere>haz clic aquí</clickHere>.",
-		"havingTrouble": "Si completaste el registro pero tienes problemas, <clickHere>haz clic aquí</clickHere>.",
-		"pasteUrl": "Pega la URL de respuesta de tu navegador:",
-		"docsLink": "¿No funciona? <DocsLink>Consulta la documentación</DocsLink>.",
-		"invalidURL": "Eso no parece ser una URL de respuesta válida. Por favor copia lo que Lite-Agent Cloud está mostrando en tu navegador.",
-		"goBack": "Atrás"
 	},
 	"startRouter": "Recomendamos usar un router LLM:",
 	"startCustom": "O puedes traer tu propia clave API:",

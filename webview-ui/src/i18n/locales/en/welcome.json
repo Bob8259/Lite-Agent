@@ -14,33 +14,14 @@
 	},
 	"landing": {
 		"greeting": "Welcome to Lite-Agent!",
-		"introduction": "With a range of built-in and extensible Modes, Lite-Agent lets you plan, architect, code, debug and boost your productivity like never before.",
-		"accountMention": "To get started, create your Lite-Agent Cloud account. Get powerful models, web control, analytics, support and more.",
-		"getStarted": "Create Roo Account",
-		"noAccount": "or use without an account"
+		"introduction": "With a range of built-in and extensible Modes, Lite-Agent lets you plan, architect, code, debug and boost your productivity like never before."
 	},
 	"providerSignup": {
 		"heading": "Choose your provider",
 		"chooseProvider": "Roo needs an LLM provider to work. Choose one to get started, you can add more later.",
-		"rooCloudProvider": "Lite-Agent Router",
-		"rooCloudDescription": "The easiest way to start is with the Lite-Agent Router: a curated mix of free and paid models at a low cost.",
-		"learnMore": "Learn more",
 		"useAnotherProvider": "3rd-party Provider",
 		"useAnotherProviderDescription": "Enter an API key and get going.",
-		"noApiKeys": "Don't want to deal with API keys and separate accounts?",
-		"backToRoo": "Go with the Lite-Agent Router.",
-		"goBack": "Back",
 		"finish": "Finish"
-	},
-	"waitingForCloud": {
-		"heading": "Logging into Lite-Agent Cloud...",
-		"description": "We'll take you to your browser to sign up for Lite-Agent Cloud. We'll then bring you back here to finish.",
-		"noPrompt": "If you don't get prompted to open a URL, <clickHere>click here</clickHere>.",
-		"havingTrouble": "If you've completed sign up but are having trouble, <clickHere>click here</clickHere>.",
-		"pasteUrl": "Paste the callback URL shown in your browser:",
-		"docsLink": "Not working? <DocsLink>Check the docs</DocsLink>.",
-		"invalidURL": "That doesn't look like a valid callback URL. Please copy what Lite-Agent Cloud is showing in your browser.",
-		"goBack": "Go back"
 	},
 	"startRouter": "We recommend using an LLM Router:",
 	"startCustom": "Or you can bring your provider API key:",

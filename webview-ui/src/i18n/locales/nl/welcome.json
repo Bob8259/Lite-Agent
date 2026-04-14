@@ -14,33 +14,14 @@
 	},
 	"landing": {
 		"greeting": "Welkom bij Lite-Agent!",
-		"introduction": "Met een reeks ingebouwde en uitbreidbare Modi laat Lite-Agent je plannen, ontwerpen, coderen, debuggen en je productiviteit verhogen als nooit tevoren.",
-		"accountMention": "Maak je Lite-Agent Cloud-account aan om te beginnen. Krijg krachtige modellen, webcontrole, analyses, ondersteuning en meer.",
-		"getStarted": "Roo-account aanmaken",
-		"noAccount": "of gebruik zonder account"
+		"introduction": "Met een reeks ingebouwde en uitbreidbare Modi laat Lite-Agent je plannen, ontwerpen, coderen, debuggen en je productiviteit verhogen als nooit tevoren."
 	},
 	"providerSignup": {
 		"heading": "Kies je provider",
 		"chooseProvider": "Roo heeft een LLM-provider nodig om te werken. Kies er een om te beginnen, je kunt er later meer toevoegen.",
-		"rooCloudProvider": "Lite-Agent Router",
-		"rooCloudDescription": "De eenvoudigste manier om te beginnen is met de Lite-Agent Router: een zorgvuldig samengesteld mix van gratis en betaalde modellen tegen lage kosten.",
-		"learnMore": "Meer informatie",
 		"useAnotherProvider": "Provider van derden",
 		"useAnotherProviderDescription": "Voer een API-sleutel in en begin.",
-		"noApiKeys": "Wil je je niet bezighouden met API-sleutels en aparte accounts?",
-		"backToRoo": "Kies de Lite-Agent Router.",
-		"goBack": "Terug",
 		"finish": "Klaar"
-	},
-	"waitingForCloud": {
-		"heading": "Aanmelden bij Lite-Agent Cloud...",
-		"description": "We brengen je naar je browser om je aan te melden voor Lite-Agent Cloud. Dan brengen we je hierheen terug om af te ronden.",
-		"noPrompt": "Als je niet wordt gevraagd een URL te openen, <clickHere>klik dan hier</clickHere>.",
-		"havingTrouble": "Als je de registratie hebt voltooid maar problemen ondervindt, <clickHere>klik dan hier</clickHere>.",
-		"pasteUrl": "Plak de callback-URL uit je browser:",
-		"docsLink": "Werkt het niet? <DocsLink>Raadpleeg de documentatie</DocsLink>.",
-		"invalidURL": "Dit ziet er niet uit als een geldige callback-URL. Kopieer alstublieft wat Lite-Agent Cloud in je browser weergeeft.",
-		"goBack": "Terug"
 	},
 	"startRouter": "We raden aan een LLM-router te gebruiken:",
 	"startCustom": "Of je kunt je eigen API-sleutel meebrengen:",

@@ -14,33 +14,14 @@
 	},
 	"landing": {
 		"greeting": "Selamat datang di Lite-Agent!",
-		"introduction": "Dengan berbagai Mode bawaan dan dapat diperluas, Lite-Agent memungkinkan Anda merencanakan, merancang, coding, debug, dan meningkatkan produktivitas seperti yang belum pernah terjadi sebelumnya.",
-		"accountMention": "Untuk memulai, buat akun Lite-Agent Cloud Anda. Dapatkan model yang kuat, kontrol web, analitik, dukungan, dan banyak lagi.",
-		"getStarted": "Buat Akun Roo",
-		"noAccount": "atau gunakan tanpa akun"
+		"introduction": "Dengan berbagai Mode bawaan dan dapat diperluas, Lite-Agent memungkinkan Anda merencanakan, merancang, coding, debug, dan meningkatkan produktivitas seperti yang belum pernah terjadi sebelumnya."
 	},
 	"providerSignup": {
 		"heading": "Pilih penyedia Anda",
 		"chooseProvider": "Roo memerlukan penyedia LLM untuk bekerja. Pilih satu untuk memulai, Anda dapat menambahkan lebih banyak nanti.",
-		"rooCloudProvider": "Penyedia Lite-Agent Cloud",
-		"rooCloudDescription": "Cara termudah untuk memulai adalah dengan Penyedia Lite-Agent Cloud: campuran model gratis dan berbayar yang dikurasi dengan hati-hati dengan biaya rendah.",
-		"learnMore": "Pelajari lebih lanjut",
 		"useAnotherProvider": "Penyedia Pihak Ketiga",
 		"useAnotherProviderDescription": "Masukkan kunci API dan mulai.",
-		"noApiKeys": "Tidak ingin berurusan dengan kunci API dan akun terpisah?",
-		"backToRoo": "Pilih Penyedia Lite-Agent Cloud.",
-		"goBack": "Kembali",
 		"finish": "Selesai"
-	},
-	"waitingForCloud": {
-		"heading": "Masuk ke Lite-Agent Cloud...",
-		"description": "Kami akan membawa Anda ke browser Anda untuk mendaftar Lite-Agent Cloud. Kemudian kami akan membawa Anda kembali ke sini untuk menyelesaikannya.",
-		"noPrompt": "Jika Anda tidak diminta untuk membuka URL, <clickHere>klik di sini</clickHere>.",
-		"havingTrouble": "Jika Anda telah menyelesaikan pendaftaran tetapi mengalami masalah, <clickHere>klik di sini</clickHere>.",
-		"pasteUrl": "Tempel URL callback dari browser Anda:",
-		"docsLink": "Tidak bekerja? <DocsLink>Periksa dokumentasi</DocsLink>.",
-		"invalidURL": "Itu tidak terlihat seperti URL callback yang valid. Harap salin apa yang ditampilkan Lite-Agent Cloud di browser Anda.",
-		"goBack": "Kembali"
 	},
 	"startRouter": "Kami merekomendasikan menggunakan router LLM:",
 	"startCustom": "Atau Anda dapat membawa kunci API Anda sendiri:",

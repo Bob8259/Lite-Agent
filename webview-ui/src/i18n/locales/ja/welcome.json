@@ -14,33 +14,14 @@
 	},
 	"landing": {
 		"greeting": "Lite-Agentへようこそ！",
-		"introduction": "組み込みおよび拡張可能なモードを備えたLite-Agentは、計画、アーキテクチャ設計、コーディング、デバッグ、そして今までにない生産性向上を可能にします。",
-		"accountMention": "始めるには、Lite-Agent Cloudアカウントを作成してください。強力なモデル、ウェブコントロール、分析、サポート、その他をご利用いただけます。",
-		"getStarted": "Rooアカウントを作成",
-		"noAccount": "またはアカウントなしで使用"
+		"introduction": "組み込みおよび拡張可能なモードを備えたLite-Agentは、計画、アーキテクチャ設計、コーディング、デバッグ、そして今までにない生産性向上を可能にします。"
 	},
 	"providerSignup": {
 		"heading": "プロバイダーを選択",
 		"chooseProvider": "Rooが機能するにはLLMプロバイダーが必要です。始めるために1つを選択してください。後から追加することもできます。",
-		"rooCloudProvider": "Lite-Agent Cloudプロバイダー",
-		"rooCloudDescription": "始める最も簡単な方法は、Lite-Agent Cloudプロバイダーを使用することです。無料および有料モデルの厳選されたミックスを低コストで提供します。",
-		"learnMore": "詳細を見る",
 		"useAnotherProvider": "サードパーティプロバイダー",
 		"useAnotherProviderDescription": "APIキーを入力して開始します。",
-		"noApiKeys": "APIキーと別のアカウントを処理したくありませんか?",
-		"backToRoo": "Lite-Agent Cloudプロバイダーを選択してください。",
-		"goBack": "戻る",
 		"finish": "完了"
-	},
-	"waitingForCloud": {
-		"heading": "Lite-Agent Cloudにログイン中...",
-		"description": "Lite-Agent Cloudに登録するためにブラウザーに移動します。その後、ここに戻って完了します。",
-		"noPrompt": "URLを開くように求められない場合は、<clickHere>ここをクリック</clickHere>してください。",
-		"havingTrouble": "登録を完了しましたがトラブルが発生している場合は、<clickHere>ここをクリック</clickHere>してください。",
-		"pasteUrl": "ブラウザーに表示されているコールバックURLを貼り付けます:",
-		"docsLink": "機能していませんか？<DocsLink>ドキュメントを確認</DocsLink>してください。",
-		"invalidURL": "有効なコールバックURLのようには見えません。Lite-Agent Cloudがブラウザーに表示しているものをコピーしてください。",
-		"goBack": "戻る"
 	},
 	"startRouter": "LLMルーターの使用をお勧めします:",
 	"startCustom": "または、独自のAPIキーを持ってくることもできます:",
