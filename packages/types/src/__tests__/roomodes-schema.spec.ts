@@ -74,7 +74,7 @@ describe("roomodes JSON schema", () => {
 					name: "Architect",
 					roleDefinition: "You are an experienced technical leader.",
 					whenToUse: "Use this mode when you need to plan.",
-					description: "Plan and design before implementation",
+					description: "Plan and design before implementation (Alt+Q)",
 					groups: ["read", ["edit", { fileRegex: "\\.md$", description: "Markdown files only" }], "mcp"],
 					source: "project",
 				},
